@@ -1,0 +1,173 @@
+Coordinates
+Barangay 1 – 13.9419° N, 121.1568° E
+Barangay 2 – 13.9436 N, 121.1581 E
+Barangay 3 – 13.9439° N, 121.1608° E
+Barangay 4 –13.9417° N, 121.1604° E
+Barangay 5 – 13.9425° N, 121.1623° E
+Barangay 6 – 13.9388° N, 121.1623° E
+Barangay 7 – 13.9342 N, 121.1596 E
+Barangay 8 –13.9391° N, 121.1651° E
+Barangay 9 – 13.9428° N, 121.1644° E
+Barangay 10 – 13.9418° N, 121.1690° E
+Barangay 11 – 13.9406° N, 121.1638° E
+Adya – 13.8788° N, 121.1395° E
+Anilao – 13.9048° N, 121.1739° E
+Anilao-Labac – 13.8916° N, 121.1858° E
+Antipolo Del Norte – 13.9285° N, 121.1676° E
+Antipolo Del Sur – 13.9140 N, 121.1885 E
+Bagong Pook – 13.9423° N, 121.1103° E
+Balintawak – 13.9530° N, 121.1588° E
+Banaybanay – 13.9328° N, 121.1154° E
+Bolbok – 13.9245° N, 121.1524° E 
+Bugtong na Pulo – 14.0000 N, 121.1670 E
+Bulacnin – 13.9911° N, 121.1453° E
+Bulaklakan – 13.9417 N, 121.0978 E
+Calamias – 13.8757° N, 121.1524° E 
+Cumba – 13.9069° N, 121.1385° E 
+Dagatan – 13.966° N, 121.182° E
+Duhatan – 13.9339° N, 121.0765° E	
+Fernando Air Base – 13.955° N, 121.125° E 
+Halang – 13.9493° N, 121.0765° E
+Inosluban – 13.9908° N, 121.1653° E
+Kayumanggi – 13.9259° N, 121.1610° E
+Latag – 13.9348° N, 121.1796° E
+Lodlod – 13.9345° N, 121.1453° E
+Lumbang – 13.9837° N, 121.1968° E
+Mabini – 13.8999° N, 121.1539° E
+Malagonlong – 13.9116° N, 121.1564° E
+Malitlit – 13.9399° N, 121.2340° E
+Marauoy – 13.96° N, 121.17° E
+Mataas na Lupa – 13.9425° N, 121.1524° E
+Munting Pulo – 13.9519° N, 121.1850° E
+Pagolingin Bata – 13.8927° N, 121.1623° E
+Pagolingin East – 13.8832° N, 121.1762° E
+Pagolingin West – 13.8754° N, 121.1707° E
+Pangao – 13.9215° N, 121.1281° E
+Pinagkawitan – 13.9007° N, 121.2025° E
+Pinagtongulan – 13.9307° N, 121.0994° E
+Plaridel – 13.9997° N, 121.1788° E
+Pusil – 13.9832° N, 121.1553° E
+Quezon – 13.8899° N, 121.1338° E
+Rizal – 13.8756° N, 121.1624° E
+Sabang – 13.9510° N, 121.1739° E
+Sampaguita – 13.9129° N, 121.1438° E
+San Benito – 13.9317° N, 121.2179° E
+San Carlos – 13.9499° N, 121.1453° E
+San Celestino – 13.9179° N, 121.2249° E
+San Francisco – 13.8942° N, 121.2483° E
+San Guillermo – 13.8932° N, 121.1560° E
+San Isidro – 13.9589° N, 121.2039° E
+San Jose – 13.9443° N, 121.1854° E
+San Lucas – 14.0181° N, 121.1811° E
+San Salvador – 13.9729° N, 121.1281° E
+San Sebastian – 13°56'27" N, 121°09'48" E
+Sico – 13.9450° N, 121.1312° E
+Santo Niño – 13.9621° N, 121.2226° E
+Santo Toribio – 13.9037° N, 121.2223° E
+Talisay – 13.9716° N, 121.2045° E
+Tambo – 13.9497° N, 121.1381° E
+Tangob – 13.9375° N, 121.1968° E
+Tanguay – 13.9733 N, 121.1403 E
+Tibig – 13.9602° N, 121.1453° E
+Tipacan – 13.9142° N, 121.2068° E
+
+Number of Population 
+Barangay 1 – 4,061 
+Barangay 2 – 3,653 
+Barangay 3 – 1,921 
+Barangay 4 – 587 
+Barangay 5 – 636 
+Barangay 6 – 645 
+Barangay 7 – 5,325 
+Barangay 8 – 481 
+Barangay 9 – 612 
+Barangay 10 – 3,464 
+Barangay 11 – 438 
+Adya – 2,426 
+Anilao – 4,954 
+Anilao-Labac – 4,521 
+Antipolo Del Norte – 7,028 
+Antipolo Del Sur – 8,612 
+Bagong Pook – 8,188 
+Balintawak – 22,291 
+Banaybanay – 14,998 
+Bolbok – 10,217 
+Bugtong na Pulo – 8,878 
+Bulacnin – 8,521 
+Bulaklakan – 1,855 
+Calamias – 1,909 
+Cumba – 4,371 
+Dagatan – 7,909 
+Duhatan – 2,982 
+Fernando Air Base – 1,930 
+Halang – 2,621 
+Inosluban – 17,234 
+Kayumanggi – 8,961 
+Latag – 10,828 
+Lodlod – 11,570 
+Lumbang – 5,421 
+Mabini – 6,667 
+Malagonlong – 3,084 
+Malitlit – 2,921 
+Marauoy – 21,732 
+Mataas na Lupa – 5,215 
+Munting Pulo – 5,612 
+Pagolingin Bata – 1,429 
+Pagolingin East – 2,518 
+Pagolingin West – 2,407 
+Pangao – 7,595 
+Pinagkawitan – 9,353 
+Pinagtongulan – 4,397 
+Plaridel – 6,246 
+Pusil – 2,522 
+Quezon – 2,207 
+Rizal – 3,979 
+Sabang – 25,616 
+Sampaguita – 10,785 
+San Benito – 5,211 
+San Carlos – 8,972 
+San Celestino – 2,681 
+San Francisco – 3,595 
+San Guillermo – 2,024 
+San Isidro – 7,355 
+San Jose – 7,922 
+San Lucas – 4,895 
+San Salvador – 5,069 
+San Sebastian – 4,217 
+Sico – 6,167 
+Santo Niño – 3,866 
+Santo Toribio – 4,163 
+Talisay – 6,058 
+Tambo – 14,537 
+Tangob – 3,586 
+Tanguay – 5,654 
+Tibig – 6,145 
+Tipacan – 4,252
+
+
+
+Picture of the tree and their name
+https://share.google/5titRIMW6qF9TmCyK
+
+Banaba Tree – Forestry.com
+https://share.google/RIXWbX2OURjPFlmjt
+
+Amaltas, Cassia fistula Buy Golden shower at Nursery Nisarga
+https://share.google/uDhu0VxCupk65QhII
+
+Model shows human impact on threatened tree species and their ...
+https://share.google/cQJTuqyorSmx9Apu4
+
+Dungon Tree – Forestry.com
+https://share.google/Zhez1SwWe4YG0Ftnn
+
+Bischofia javanica 
+https://share.google/kYnveHl8iWIzmeidL
+
+Balinghasai – Tonji and Sylvia's Wildlife Refuge
+
+https://share.google/yaiTEvOtmSPRLqGlA
+Talisay Tree – Forestry.com
+
+https://share.google/rMt2ae4XP4jU5QUu2
+Banuyo (Wallaceodendron Celebicum)
