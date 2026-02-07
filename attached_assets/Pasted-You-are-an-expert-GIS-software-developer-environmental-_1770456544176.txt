@@ -1,0 +1,242 @@
+You are an expert GIS software developer, environmental planner, and mobile/web application architect.
+Your task is to design and implement an interactive map-based application using modern GIS and mapping technologies.
+
+Name of the app: EcoPlan
+---
+
+1. Core Application Description
+
+Develop an application that displays an interactive map.
+When a user clicks any point on the map, the system must:
+
+1. Identify the nearest barangay based on geographic coordinates.
+
+
+2. Display barangay information, including:
+
+Barangay name
+
+Population count
+
+Geographic coordinates
+
+
+
+
+
+---
+
+2. Barangay Data (Static Dataset)
+
+Use the following barangay coordinate and population dataset as the official reference layer:
+
+Barangay coordinates (latitude & longitude)
+
+Barangay population values (provided below)
+
+Distance calculation must use Haversine Formula or equivalent GIS spatial querying
+
+
+👉 If the clicked point falls within multiple barangay ranges, select the nearest barangay centroid.
+
+
+---
+
+3. User Input Panel (Side Panel UI)
+
+On the side of the map, provide an input panel where the user can:
+
+Enter land area in square meters
+
+View calculated outputs dynamically
+
+
+
+---
+
+4. Tree Planting Computation Logic
+
+After a barangay is selected and land area is entered, the system must:
+
+4.1 Tree Quantity Calculation
+
+Calculate recommended number of trees based on:
+
+Area (square meters)
+
+Standard tree spacing rules (configurable)
+
+
+
+4.2 Tree Compatibility & Selection
+
+The app must recommend tree species that are:
+
+Environmentally compatible with the selected location
+
+Native or suitable to Philippine conditions
+
+Appropriate based on:
+
+Urban density
+
+Available planting space
+
+Population pressure
+
+
+
+
+---
+
+5. Environmental & Land-Use Constraints
+
+The system must validate planting feasibility by analyzing:
+
+5.1 Built Environment Detection
+
+Check for:
+
+Buildings
+
+Houses
+
+Roads
+
+Infrastructure
+
+
+If structures exist, restrict or adjust tree recommendations accordingly
+
+
+5.2 Flood Risk Assessment
+
+Integrate Project NOAH flood-prone data
+
+If area is flood-prone:
+
+Recommend flood-resilient tree species
+
+Exclude unsuitable trees
+
+
+
+
+---
+
+6. Tree Information Display
+
+For each recommended tree, display:
+
+Tree name
+
+Scientific name (if available)
+
+Image of the tree
+
+Estimated growth timeline:
+
+Seedling stage
+
+Juvenile stage
+
+Mature stage
+
+
+Environmental benefits (optional but encouraged)
+
+
+Use the provided tree image and reference links as the official tree database.
+
+
+---
+
+7. Tree Species Dataset (Preloaded)
+
+Include the following tree species as initial options:
+
+Banaba Tree
+
+Amaltas (Cassia fistula / Golden Shower)
+
+Dungon Tree
+
+Bischofia javanica
+
+Balinghasai
+
+Talisay Tree
+
+Banuyo (Wallaceodendron celebicum)
+
+
+Each species must contain:
+
+Image
+
+Growth characteristics
+
+Flood tolerance
+
+Urban suitability
+
+
+
+---
+
+8. Technical Requirements
+
+Map Engine: Google Maps / Mapbox / Leaflet
+
+Spatial Queries: GIS distance-based calculations
+
+UI: Responsive design with side-panel layout
+
+Architecture: Modular and scalable
+
+Data Handling: Static datasets with future API expansion support
+
+
+
+---
+
+9. Output Behavior Summary
+
+When a user:
+
+1. Clicks a location on the map
+
+
+2. The nearest barangay and its population is displayed
+
+
+3. The user enters land area (sqm)
+
+
+4. The system:
+
+Calculates tree quantity
+
+Filters compatible tree species
+
+Checks flood risk & structures
+
+Displays tree images, names, and growth timelines
+
+
+
+
+
+---
+
+10. Goal of the Application
+
+To support data-driven environmental planning, urban greening, and sustainable tree-planting decisions based on:
+
+Geographic location
+
+Population density
+
+Environmental constraints
+
+Scientific suitability
