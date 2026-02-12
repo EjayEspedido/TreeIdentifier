@@ -61,7 +61,7 @@ export default function Dashboard() {
       <motion.aside
         initial={{ x: -50, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
-        className="w-full md:w-[450px] lg:w-[500px] h-[50vh] md:h-full flex flex-col bg-card border-r border-border z-20 shadow-2xl relative"
+        className="w-full md:w-[500px] lg:w-[600px] h-[50vh] md:h-full flex flex-col bg-card border-r border-border z-20 shadow-2xl relative"
       >
         {/* Header */}
         <header className="p-6 border-b border-border bg-gradient-to-br from-primary/10 to-transparent">
@@ -253,7 +253,7 @@ export default function Dashboard() {
           center={[DEFAULT_CENTER.lat, DEFAULT_CENTER.lng]}
           zoom={12}
           zoomControl={false}
-          className="w-full h-full z-0"
+          className="w-full md:w-[350px] lg:w-[400px] h-full"
         >
           {/* Darker, cleaner map tiles */}
           <TileLayer
