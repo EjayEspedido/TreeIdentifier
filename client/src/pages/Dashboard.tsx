@@ -54,7 +54,7 @@ export default function Dashboard() {
   };
 
   return (
-    <div className="h-screen w-screen flex flex-col md:flex-row overflow-hidden bg-background">
+    <div className="min-h-screen w-screen flex flex-col md:flex-row overflow-hidden bg-background">
       {/* =======================
           SIDE PANEL
       ======================== */}
@@ -248,7 +248,7 @@ export default function Dashboard() {
       {/* =======================
           MAP AREA
       ======================== */}
-      <main className="flex-1 h-[40vh] md:h-[70vh] relative bg-muted">
+      <main className="flex-1 relative bg-muted">
         <MapContainer
           center={[DEFAULT_CENTER.lat, DEFAULT_CENTER.lng]}
           zoom={12}
